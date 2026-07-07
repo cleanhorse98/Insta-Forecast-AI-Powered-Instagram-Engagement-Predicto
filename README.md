@@ -1,6 +1,6 @@
 # Insta-Forecast
 
-**Author:** Praveen Arella
+**Author:** Praneeth
 
 Insta-Forecast is an AI-powered Instagram engagement predictor. It extracts real-time metadata, performs NLP-driven feature engineering, and uses XGBoost regressors to predict likes, views, and comments, and to forecast 1–60 day growth curves.
 
