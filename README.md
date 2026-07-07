@@ -114,6 +114,6 @@ License
 MIT License — feel free to use and modify. Add any licensing details you prefer.
 
 Contact
-Author: Praveen Arella
+Author: Praneeth
 
 If you’d like help integrating Insta-Forecast with production environments or expanding the feature set, reach out via your preferred contact method and share any specific requirements.
